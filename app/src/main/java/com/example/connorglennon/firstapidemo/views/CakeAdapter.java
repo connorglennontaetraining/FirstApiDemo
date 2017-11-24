@@ -1,7 +1,6 @@
 package com.example.connorglennon.firstapidemo.views;
 
 import android.content.Context;
-import android.net.Uri;
 import android.support.v7.widget.RecyclerView;
 import android.util.Log;
 import android.view.LayoutInflater;
@@ -11,12 +10,9 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.example.connorglennon.firstapidemo.R;
-import com.example.connorglennon.firstapidemo.model.CakeModel;
+import com.example.connorglennon.firstapidemo.data.network.model.CakeModel;
 import com.squareup.picasso.Picasso;
 
-import org.w3c.dom.Text;
-
-import java.util.ArrayList;
 import java.util.List;
 
 /**

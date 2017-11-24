@@ -1,6 +1,6 @@
-package com.example.connorglennon.firstapidemo.services;
+package com.example.connorglennon.firstapidemo.data.network.services;
 
-import com.example.connorglennon.firstapidemo.util.constants.ApiList;
+import com.example.connorglennon.firstapidemo.data.network.ApiList;
 import com.jakewharton.retrofit2.adapter.rxjava2.RxJava2CallAdapterFactory;
 
 import okhttp3.OkHttpClient;

@@ -1,4 +1,4 @@
-package com.example.connorglennon.firstapidemo.util.constants;
+package com.example.connorglennon.firstapidemo.data.network;
 
 /**
  * Created by Connor Glennon on 22/11/2017.

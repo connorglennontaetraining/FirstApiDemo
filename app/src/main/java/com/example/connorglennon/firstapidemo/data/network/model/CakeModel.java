@@ -1,4 +1,4 @@
-package com.example.connorglennon.firstapidemo.model;
+package com.example.connorglennon.firstapidemo.data.network.model;
 
 /**
  * Created by Connor Glennon on 22/11/2017.

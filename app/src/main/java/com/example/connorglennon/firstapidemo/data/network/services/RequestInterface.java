@@ -1,7 +1,7 @@
-package com.example.connorglennon.firstapidemo.services;
+package com.example.connorglennon.firstapidemo.data.network.services;
 
-import com.example.connorglennon.firstapidemo.model.CakeModel;
-import com.example.connorglennon.firstapidemo.util.constants.ApiList;
+import com.example.connorglennon.firstapidemo.data.network.model.CakeModel;
+import com.example.connorglennon.firstapidemo.data.network.ApiList;
 
 import java.util.List;
 
